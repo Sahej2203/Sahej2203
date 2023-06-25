@@ -19,6 +19,9 @@ I am currently working on a live project called Invoices4us. It is an invoicing 
 ![C++](https://img.shields.io/badge/-C++-blue?style=flat&logo=c%2B%2B&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React-blue?style=flat&logo=react&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-lightgreen?style=flat&logo=spring&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-orange?style=flat&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/-Swagger-red?style=flat&logo=swagger&logoColor=white)
 
 ## Coding Profile 💻
 
