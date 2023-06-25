@@ -19,8 +19,8 @@ I'm Sahej, a full-stack web developer with a strong background in Java, JavaScri
 
 ## Coding Profile
 
-- [GeeksforGeeks](https://auth.geeksforgeeks.org/user/horasahvdj1)
-- [LeetCode](https://leetcode.com/horasahej2203/)
+[![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-brightgreen?style=flat&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/horasahvdj1)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-black?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/horasahej2203/)
 
 ## Contact Me
 
