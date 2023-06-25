@@ -28,6 +28,10 @@ I am currently working on a live project called Invoices4us. It is an invoicing 
 [![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-brightgreen?style=flat&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/horasahvdj1)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-black?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/horasahej2203/)
 
+## Resume 📄
+
+You can find my resume [here]([https://example.com/resume](https://drive.google.com/file/d/1bJzxPaE1Ty-UkgRfYkt8EoOSgv6IqztS/view?usp=sharing)).
+
 ## Contact Me 📞
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahej-h-5497171b0/)
