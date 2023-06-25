@@ -1,7 +1,7 @@
 ## Hi there! I'm Sahej Hora 👋
 
 ## Introduction 🚀
-I'm Sahej, a full-stack web developer with a strong background in Java, JavaScript, HTML, CSS, and various databases such as MongoDB, MySQL, and NoSQL. 
+I'm Sahej, a full-stack web developer with a strong background in Java, JavaScript, HTML, CSS, and various databases such as MongoDB, MySQL. 
 
 ## Working on Live Project [<img src="http://invoices4us.com/images/Invoices4Us-logos_dark.png" alt="Invoice4us Logo" width="75">](http://invoices4us.com/)
 I am currently working on a live project called Invoices4us. It is an invoicing application that simplifies the process of creating and managing invoices. You can check out the project at [Invoices4us](http://invoices4us.com/).
