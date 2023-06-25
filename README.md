@@ -29,7 +29,7 @@ I'm Sahej, a full-stack web developer with a strong background in Java, JavaScri
 
 ## Participation and Volunteering
 
-- Full Stack Web Developer at RHA Technical Team ![RHA Logo]([https://example.com/rha-logo.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZP1OpKpltpLwppyLt_Uv8uOgXt8oma218EUqiktDzoQ&s))
+- Full Stack Web Developer at RHA Technical Team ![RHA Logo](https://robinhoodarmy.com/assets/RHALogo/RHALogoFinal.png)
 - Volunteer at [Robin Hood Army](https://robinhoodarmy.com/)
 
 
