@@ -27,6 +27,10 @@ I'm Sahej, a full-stack web developer with a strong background in Java, JavaScri
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahej-hora-5497171b0/)
 [![Email](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:horasahej2203@gmail.com)
 
+## Participation and Volunteering
+
+- Full Stack Web Developer at RHA Technical Team ![RHA Logo](https://example.com/rha-logo.png)
+- Volunteer at [Robin Hood Army](https://robinhoodarmy.com/)
 
 
 
