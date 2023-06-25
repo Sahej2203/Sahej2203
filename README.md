@@ -30,7 +30,7 @@ I am currently working on a live project called Invoices4us. It is an invoicing 
 
 ## Contact Me 📞
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/sahej-h-5497171b0/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahej-h-5497171b0/)
 [![Email](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:horasahej2203@gmail.com)
 
 ## Participation and Volunteering <a href="https://robinhoodarmy.com/"><img src="https://robinhoodarmy.com/assets/RHALogo/RHALogoFinal.png" alt="RHA Logo" width="30" style="vertical-align: middle;"></a>
