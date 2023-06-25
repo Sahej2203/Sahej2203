@@ -3,10 +3,8 @@
 ## Introduction
 I'm Sahej, a full-stack web developer with a strong background in Java, JavaScript, HTML, CSS, and various databases such as MongoDB, MySQL, and NoSQL. This project showcases my skills and experience in web development and database systems.
 
-## Working on Live Project
-I am currently working on a live project called Invoice4us. It is an invoicing application that simplifies the process of creating and managing invoices. You can check out the project at [Invoices4us](http://invoices4us.com/) and see the logo below:
-
-[<img src="http://invoices4us.com/images/Invoices4Us-logos_dark.png" alt="Invoice4us Logo" width="75">](http://invoices4us.com/)
+## Working on Live Project [<img align="right" src="http://invoices4us.com/images/Invoices4Us-logos_dark.png" alt="Invoice4us Logo" width="75">](http://invoices4us.com/)
+I am currently working on a live project called Invoice4us. It is an invoicing application that simplifies the process of creating and managing invoices. You can check out the project at [Invoices4us](http://invoices4us.com/).
 
 ## Technologies
 
