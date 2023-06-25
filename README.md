@@ -1,11 +1,29 @@
 ### Hi there! 👋
 
+![Profile](https://img.shields.io/badge/Profile-Sahej-brightgreen?style=flat)
+
 ## Introduction
 I'm Sahej, a full-stack web developer with a strong background in Java, JavaScript, HTML, CSS, and various databases such as MongoDB, MySQL, and NoSQL. This project showcases my skills and experience in web development and database systems.
 
 ## Technologies
 
-![Java](https://img.shields.io/badge/-Java-orange?style=flat&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript&logoColor=white) ![HTML](https://img.shields.io/badge/-HTML-red?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-blue?style=flat&logo=css3&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat&logo=mysql&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-purple?style=flat&logo=php&logoColor=white) ![C](https://img.shields.io/badge/-C-blue?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/-C++-blue?style=flat&logo=c%2B%2B&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/-React-blue?style=flat&logo=react&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-orange?style=flat&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-red?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-blue?style=flat&logo=css3&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat&logo=mysql&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-purple?style=flat&logo=php&logoColor=white)
+![C](https://img.shields.io/badge/-C-blue?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-blue?style=flat&logo=c%2B%2B&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-blue?style=flat&logo=react&logoColor=white)
+
+## Coding Profile
+
+- [GeeksforGeeks](https://auth.geeksforgeeks.org/user/horasahvdj1)
+- [LeetCode](https://leetcode.com/horasahej2203/)
+
 
 
 
