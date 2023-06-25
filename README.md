@@ -1,12 +1,12 @@
-## Hi there! I'm Sahej Hora👋
+## Hi there! I'm Sahej Hora 👋
 
-## Introduction
+## Introduction 🚀
 I'm Sahej, a full-stack web developer with a strong background in Java, JavaScript, HTML, CSS, and various databases such as MongoDB, MySQL, and NoSQL. 
 
 ## Working on Live Project [<img src="http://invoices4us.com/images/Invoices4Us-logos_dark.png" alt="Invoice4us Logo" width="75">](http://invoices4us.com/)
 I am currently working on a live project called Invoices4us. It is an invoicing application that simplifies the process of creating and managing invoices. You can check out the project at [Invoices4us](http://invoices4us.com/).
 
-## Technologies
+## Technologies 🛠️
 
 ![Java](https://img.shields.io/badge/-Java-orange?style=flat&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript&logoColor=white)
@@ -20,12 +20,12 @@ I am currently working on a live project called Invoices4us. It is an invoicing 
 ![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React-blue?style=flat&logo=react&logoColor=white)
 
-## Coding Profile
+## Coding Profile 💻
 
 [![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-brightgreen?style=flat&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/horasahvdj1)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-black?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/horasahej2203/)
 
-## Contact Me
+## Contact Me 📞
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahej-hora-5497171b0/)
 [![Email](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:horasahej2203@gmail.com)
