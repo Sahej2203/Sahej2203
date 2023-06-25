@@ -1,7 +1,5 @@
 ### Hi there! 👋
 
-![Profile](https://img.shields.io/badge/Profile-Sahej-brightgreen?style=flat)
-
 ## Introduction
 I'm Sahej, a full-stack web developer with a strong background in Java, JavaScript, HTML, CSS, and various databases such as MongoDB, MySQL, and NoSQL. This project showcases my skills and experience in web development and database systems.
 
@@ -23,6 +21,12 @@ I'm Sahej, a full-stack web developer with a strong background in Java, JavaScri
 
 - [GeeksforGeeks](https://auth.geeksforgeeks.org/user/horasahvdj1)
 - [LeetCode](https://leetcode.com/horasahej2203/)
+
+## Contact Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahej-hora-5497171b0/)
+![Email](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail&logoColor=white) - horasahej2203@gmail.com
+
 
 
 
