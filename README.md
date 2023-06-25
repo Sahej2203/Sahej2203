@@ -32,7 +32,7 @@ I am currently working on a live project called Invoice4us. It is an invoicing a
 
 ## Participation and Volunteering <a href="https://robinhoodarmy.com/"><img src="https://robinhoodarmy.com/assets/RHALogo/RHALogoFinal.png" alt="RHA Logo" width="30" style="vertical-align: middle;"></a>
 
-- [Volunteer at Robin Hood Army](https://robinhoodarmy.com/)
+- Volunteer at [Robin Hood Army](https://robinhoodarmy.com/)
 
 
 
