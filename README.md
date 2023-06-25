@@ -30,9 +30,10 @@ I am currently working on a live project called Invoice4us. It is an invoicing a
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahej-hora-5497171b0/)
 [![Email](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:horasahej2203@gmail.com)
 
-## Participation and Volunteering
+## Participation and Volunteering <a href="https://robinhoodarmy.com/"><img src="https://robinhoodarmy.com/assets/RHALogo/RHALogoFinal.png" alt="RHA Logo" width="30" style="vertical-align: middle;"></a>
 
-- Volunteer at Robin Hood Army <a href="https://robinhoodarmy.com/"><img src="https://robinhoodarmy.com/assets/RHALogo/RHALogoFinal.png" alt="RHA Logo" width="30" style="vertical-align: middle; margin-top: -5px;"></a>
+
+- Volunteer at Robin Hood Army ((https://robinhoodarmy.com/))
 
 
 
