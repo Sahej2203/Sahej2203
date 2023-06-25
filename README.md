@@ -1,5 +1,19 @@
 ### Hi there 👋
 
+## Introduction
+I'm Sahej, a full-stack web developer with a strong background in Java, JavaScript, HTML, CSS, and various databases such as MongoDB, MySQL, and NoSQL. This project showcases my skills and experience in web development and database systems.
+
+## Technologies
+
+- Java
+- JavaScript
+- HTML
+- CSS
+- MongoDB
+- MySQL
+- NoSQL
+
+
 <!--
 **Sahej2203/Sahej2203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
