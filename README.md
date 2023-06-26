@@ -22,8 +22,15 @@ I am currently working on a live project called Invoices4us. It is an invoicing 
 ![Postman](https://img.shields.io/badge/-Postman-orange?style=flat&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-red?style=flat&logo=swagger&logoColor=white)
 
-## Coding Profile 💻
-
+## My Coding Profile 💻
+<p>
+  <a href="https://leetcode.com/horasahej2203/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Leetcode" height="30" width="40" />
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/horasahvdj1" target="_blank">
+    <img align="center" src="https://media.geeksforgeeks.org/gfg-gg-logo.svg" alt="GeeksforGeeks" height="30" width="40" />
+  </a>
+</p>
 [![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-brightgreen?style=flat&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/horasahvdj1)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-black?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/horasahej2203/)
 
