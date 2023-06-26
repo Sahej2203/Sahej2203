@@ -31,8 +31,6 @@ I am currently working on a live project called Invoices4us. It is an invoicing 
     <img align="center" src="https://media.geeksforgeeks.org/gfg-gg-logo.svg" alt="GeeksforGeeks" height="30" width="40" />
   </a>
 </p>
-[![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-brightgreen?style=flat&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/horasahvdj1)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-black?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/horasahej2203/)
 
 ## Resume 📄
 
