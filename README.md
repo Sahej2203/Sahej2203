@@ -38,7 +38,7 @@ I am currently working on a live project called Invoices4us. It is an invoicing 
 
 ## Resume 📄
 
-You can find my resume [here]((https://drive.google.com/file/d/1-iCkjnDMUH91jExt3gFNPLU9bmW0yqDz/view?usp=drive_link)).
+You can find my resume [here](https://drive.google.com/file/d/1-iCkjnDMUH91jExt3gFNPLU9bmW0yqDz/view?usp=drive_link).
 
 ## Contact Me 📞
 
