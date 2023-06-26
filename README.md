@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm <a href="https://www.linkedin.com/in/sahej-hora-5497171b0/" target="_blank">Sahej Hora</a></h1>
-<img alt="coding" width="50" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> 
+<img alt="coding" width="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> 
 <h3 align="center">A passionate Software Developer 👨‍💻 from India</h3>
 
 
