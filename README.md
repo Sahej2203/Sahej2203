@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm <a href="https://www.linkedin.com/in/sahej-hora-5497171b0/" target="_blank">Sahej Hora</a></h1>
-<img align="right" alt="coding" width="100" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> 
-<h3 align="center">A passionate Software Developer 👨‍💻 from India</h3>
+<div style="display: flex; align-items: flex-end;">
+  <img align="right" alt="coding" width="100" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> 
+  <h3 align="center" style="margin-bottom: 0;">A passionate Software Developer 👨‍💻 from India</h3>
+</div>
 
 
 ## Working on Live Project [<img src="http://invoices4us.com/images/Invoices4Us-logos_dark.png" alt="Invoice4us Logo" width="75">](http://invoices4us.com/)
