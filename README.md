@@ -25,6 +25,9 @@ I am currently working on a live project called Invoices4us. It is an invoicing 
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-lightgreen?style=flat&logo=spring&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-orange?style=flat&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-red?style=flat&logo=swagger&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white)
+
 
 ## My Coding Profile 💻
 <p>
