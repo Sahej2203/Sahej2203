@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm [Sahej Hora](https://www.linkedin.com/in/sahej-hora-5497171b0/)</h1>
+<h1 align="center">Hi 👋, I'm <a href="https://www.linkedin.com/in/sahej-hora-5497171b0/" target="_blank">Sahej Hora</a></h1>
 <h3 align="center">A passionate Software Developer 👨‍💻 from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> 
 
