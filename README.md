@@ -33,6 +33,19 @@ You can find my resume [here](https://drive.google.com/file/d/1bJzxPaE1Ty-UkgRfY
 
 ## Contact Me 📞
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/sahej-h-5497171b0/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="30" width="40" />
+  </a>
+  <a href="https://www.instagram.com/sahej_hora__/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
+  <a href="mailto:horasahej2203@gmail.com" target="_blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/768px-Gmail_icon_%282020%29.svg.png?20221017173631" alt="Email" height="30" width="40" />
+  </a>
+</p>
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahej-h-5497171b0/)
 [![Email](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:horasahej2203@gmail.com)
 
