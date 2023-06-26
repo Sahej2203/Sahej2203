@@ -33,7 +33,6 @@ You can find my resume [here](https://drive.google.com/file/d/1bJzxPaE1Ty-UkgRfY
 
 ## Contact Me 📞
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/sahej-h-5497171b0/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="30" width="40" />
@@ -46,8 +45,6 @@ You can find my resume [here](https://drive.google.com/file/d/1bJzxPaE1Ty-UkgRfY
   </a>
 </p>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahej-h-5497171b0/)
-[![Email](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:horasahej2203@gmail.com)
 
 ## Participation and Volunteering <a href="https://robinhoodarmy.com/"><img src="https://robinhoodarmy.com/assets/RHALogo/RHALogoFinal.png" alt="RHA Logo" width="30" style="vertical-align: middle;"></a>
 
