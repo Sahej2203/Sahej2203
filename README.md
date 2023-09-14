@@ -4,7 +4,7 @@
 
 
 ## Working on Live Project <br>
-[<img src="http://invoices4us.com/images/Invoices4Us-logos_dark.png" alt="Invoice4us Logo" width="50">](http://invoices4us.com/)**Invoices4us**
+[<img src="http://invoices4us.com/images/Invoices4Us-logos_dark.png" alt="Invoice4us Logo" width="50">](http://invoices4us.com/)&nbsp;&nbsp;**Invoices4us**<br>
 It is an invoicing application that simplifies the process of creating and managing invoices.<br>
 You can check out the project at [Invoices4us](http://invoices4us.com/).
 
