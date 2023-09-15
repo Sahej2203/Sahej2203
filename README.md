@@ -7,9 +7,8 @@
 [<img src="http://invoices4us.com/images/Invoices4Us-logos_dark.png" alt="Invoice4us Logo" width="50">](http://invoices4us.com/)<br>**Invoices4us**<br>
 It is an invoicing application that simplifies the process of creating and managing invoices.<br>
 You can check out the project at [Invoices4us](http://invoices4us.com/).
-<div style="background-color: #1E3163; color: #ffffff; padding: 10px;">
-    <p style="font-weight: bold; font-size: 24px;">Rent4me</p>
-</div>
+[![Rent4me](https://img.shields.io/badge/-Rent4me-blue?style=flat&logo=rent4me&logoColor=white)](https://www.rent4me.com/)
+
 
 ## Technologies 🛠️
 
