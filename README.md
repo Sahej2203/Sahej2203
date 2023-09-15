@@ -11,8 +11,7 @@ You can check out the project at [Invoices4us](http://invoices4us.com/). <br>
 <br>**Rent4me**<br>
 Connecting Landlords and Tenants<br>
 A platform where landlords showcase their properties, and tenants find their ideal homes. Explore now!
-You can check out the project at [Rent4me]([http://invoices4us.com/](http://rentalweb-dev.s3-website-us-east-1.amazonaws.com/admin/login.html)). <br>
-
+You can check out the project at [Rent4me](http://rentalweb-dev.s3-website-us-east-1.amazonaws.com/admin/login.html). <br>
 
 ## Technologies 🛠️
 
