@@ -7,8 +7,8 @@
 [<img src="http://invoices4us.com/images/Invoices4Us-logos_dark.png" alt="Invoice4us Logo" width="50">](http://invoices4us.com/)<br>**Invoices4us**<br>
 It is an invoicing application that simplifies the process of creating and managing invoices.<br>
 You can check out the project at [Invoices4us](http://invoices4us.com/). <br>
-[![Rent4me](https://img.shields.io/badge/-Rent4me-blue?style=flat&logo=rent4me&logoColor=white)](http://rentalweb-dev.s3-website-us-east-1.amazonaws.com/admin/login.html)
-<br>**Rent4me**<br>
+[![Rents4me](https://img.shields.io/badge/-Rent4me-blue?style=flat&logo=rent4me&logoColor=white)](http://rentalweb-dev.s3-website-us-east-1.amazonaws.com/admin/login.html)
+<br>**Rents4me**<br>
 Connecting Landlords and Tenants<br>
 A platform where landlords showcase their properties, and tenants find their ideal homes. [Explore now!](http://rentalweb-dev.s3-website-us-east-1.amazonaws.com/admin/login.html). <br>
 
