@@ -10,7 +10,7 @@ You can check out the project at [Invoices4us](http://invoices4us.com/). <br>
 [![Rents4me](https://img.shields.io/badge/-Rents4me-blue?style=flat&logo=rent4me&logoColor=white)](https://rents4me.com/)
 <br>**Rents4me**<br>
 Connecting Landlords and Tenants<br>
-A platform where landlords showcase their properties, and tenants find their ideal homes. [Explore now!](http://rentalweb-dev.s3-website-us-east-1.amazonaws.com/index.html). <br>
+A platform where landlords showcase their properties, and tenants find their ideal homes. [Explore now!](https://rents4me.com/). <br>
 
 ## Technologies 🛠️
 
