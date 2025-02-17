@@ -44,7 +44,7 @@ A platform where landlords showcase their properties, and tenants find their ide
 
 ## Resume 📄
 
-You can find my resume [here](https://drive.google.com/file/d/1w3giJIQKg9u_A3rgLFiOBuA6KohhmBYO/view?usp=sharing).
+You can find my resume [here](https://drive.google.com/file/d/1lrKkYtMVDGug4_62CxoJUWL0v5PqXvV3/view?usp=sharing).
 
 ## Contact Me 📞
 
